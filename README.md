@@ -2,8 +2,6 @@
 
 In the "To do list"  Project, you'll build a web app that lets you to maintain a simple To-do list that can used in day to day life 
 
-## Link
-https://would-you-rather-fun.herokuapp.com/
 
 ## Installation
 
